@@ -1,0 +1,10 @@
+Package: Week10DataScience
+Title: Kayla's Dissertation Code Package
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kayla", "McComb", role = c("aut", "cre"))
+Description: Helpful functions for later use for Kayla's dissertation.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
