@@ -2,7 +2,7 @@ Package: Week10DataScience
 Title: Kayla's Dissertation Code Package
 Version: 0.0.0.9000
 Authors@R: 
-    Authors@R: person(
+    person(
     given = "Kayla",
     family = "McComb",
     email = "kmccomb@uoregon.edu",
