@@ -6,8 +6,7 @@ Authors@R:
     given = "Kayla",
     family = "McComb",
     email = "kmccomb@uoregon.edu",
-    role = c("aut", "cre")
-)
+    role = c("aut", "cre"))
 Description: Helpful functions for later use for Kayla's dissertation.
 License: MIT + file LICENSE
 Encoding: UTF-8
